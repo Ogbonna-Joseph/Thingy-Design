@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP X201632MKB4SI
+D 32MHz 8pF +/-10ppm SMD2016-4P Crystals ROHS
+K
+F https://datasheet.lcsc.com/lcsc/2103291240_Yangxing-Tech-X201632MKB4SI_C718072.pdf
+$ENDCMP
+#
+#End Doc Library
